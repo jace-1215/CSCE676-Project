@@ -84,7 +84,7 @@ CSCE676-Project/
 - Centrality strongly correlates with growth in naive analysis
 - In-degree performs as well as or better than PageRank
 - After adjustment, effects shrink or reverse
-- Suggests centrality reflects structure rather than causal influence
+- Suggests centrality reflects structure rather than true causal influence
 
 ---
 
