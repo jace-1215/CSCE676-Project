@@ -75,6 +75,7 @@ CSCE676-Project/
 ├── checkpoint_2.ipynb
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
