@@ -105,5 +105,5 @@ All design decisions, analysis, and interpretations were independently developed
 
 ## 🎓 Student
 
-Jaehoon Lee
+Jaehoon Lee  
 Texas A&M University
