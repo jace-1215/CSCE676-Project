@@ -67,3 +67,42 @@ https://youtu.be/8ztodw0gPug
 ---
 
 ## 📁 Repository Structure
+
+```text
+CSCE676-Project/
+├── main_notebook.ipynb
+├── checkpoint_1.ipynb
+├── checkpoint_2.ipynb
+├── requirements.txt
+└── README.md
+
+---
+
+## 📈 Results Summary
+
+- Centrality strongly correlates with growth in naive analysis
+- In-degree performs as well as or better than PageRank
+- After adjustment, effects shrink or reverse
+- Suggests centrality reflects structure rather than causal influence
+
+---
+
+## 🤝 Collaboration Declaration
+
+**Collaborators:** None  
+
+**Web Sources:**
+- SNAP dataset
+- NetworkX documentation
+- Scikit-learn documentation  
+
+**AI Tools:**  
+ChatGPT (OpenAI) was used to assist with structure, code refinement, and explanation clarity.  
+All design decisions, analysis, and interpretations were independently developed by the author.
+
+---
+
+## 🎓 Student
+
+Jaehoon Lee  
+Texas A&M University
